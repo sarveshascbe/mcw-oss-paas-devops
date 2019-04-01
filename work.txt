@@ -7,3 +7,4 @@ cs83d472f2.australiaeast.cloudapp.azure.com
 
 /home/jenkinsadmin/.ssh/id_rsa.pub
 
+ssh -L 127.0.0.1:8080:localhost:8080 jenkinsadmin@jenkins-kb.westus.cloudapp.azure.com

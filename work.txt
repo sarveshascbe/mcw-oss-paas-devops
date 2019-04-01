@@ -1,0 +1,9 @@
+mongoimport --host bestforyoudbsarvesh.documents.azure.com:10255 -u bestforyoudbsarvesh -p mX7RLCcEFduEGmyWJ7nIZVTqb5WZZDRFWlSahIfze6m1E0JFAjJT5xSuKad1Q4PpKonLCJ1lOpNvZtsfbagTDA== --db best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --type json --file ~/MongoExport/plans.json
+
+
+bestforyouregistrysarvesh.azurecr.io/best-for-you-organics:latest
+
+cs83d472f2.australiaeast.cloudapp.azure.com
+
+/home/jenkinsadmin/.ssh/id_rsa.pub
+

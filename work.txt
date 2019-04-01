@@ -8,3 +8,12 @@ cs83d472f2.australiaeast.cloudapp.azure.com
 /home/jenkinsadmin/.ssh/id_rsa.pub
 
 ssh -L 127.0.0.1:8080:localhost:8080 jenkinsadmin@jenkins-kb.westus.cloudapp.azure.com
+
+ApplicationID : 5338e390-1706-4e8d-9779-2535f43f16ca
+
+Key : 2NTP0sXv37THouyVRf83DUpdQ60llv8ZD7K+qui7N/w=
+
+Directory ID : f94768c8-8714-4abe-8e2d-37a64b18216a
+
+Subscription ID : 7a2f51a1-ab51-42a4-b672-8fa0c2e9ff9b
+
